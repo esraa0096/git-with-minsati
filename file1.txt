@@ -1,1 +1,2 @@
 Hello world !
+this my new entry "text"
