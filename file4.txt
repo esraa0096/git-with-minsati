@@ -2,3 +2,5 @@ sky
 
 
 cyan
+sky
+blue
